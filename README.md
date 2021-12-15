@@ -25,7 +25,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://dlarhkd1211.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dlarhkd1211.tistory.com/"/></a>&nbsp
-  <a href="https://www.notion.so/dlarhkd1211/Resume-50b74bf6f1a142cea305c5e842be5ef7"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/dlarhkd1211/Resume-50b74bf6f1a142cea305c5e842be5ef7"/></a>&nbsp
+<!--   <a href="https://www.notion.so/dlarhkd1211/Resume-50b74bf6f1a142cea305c5e842be5ef7"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/dlarhkd1211/Resume-50b74bf6f1a142cea305c5e842be5ef7"/></a>&nbsp -->
   <a href="mailto:dlarhkd1211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlarhkd1211@gmail.com"/></a>
 </p>
 <br>
