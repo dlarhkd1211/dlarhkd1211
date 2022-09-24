@@ -38,6 +38,3 @@
 </p> -->
 
 
-<h3 align="left"> Github Stats </h3>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=dlarhkd1211&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=prs,issues)
